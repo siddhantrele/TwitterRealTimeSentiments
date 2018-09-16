@@ -8,3 +8,6 @@ I would recommend setting up a virtualenv with Python3.6 to avoid compatibility 
 2. Modify scraper_settings.py and enter your Twitter API Keys and the track terms for which sentiments need to be tracked.
 3. Execute python manage.py runall. It will run the Twitter Sentiment Scraper alongside the Django Server.
 
+![screenshot](https://user-images.githubusercontent.com/16881337/45599047-b25de900-ba02-11e8-9da9-6e8dca442169.PNG)
+
+
